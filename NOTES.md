@@ -226,3 +226,11 @@ https://www.youtube.com/watch?v=XviRIb9BMpI&t=8s
 
 
 
+
+## TODO
+
+- [ ] Ajouter des labels pour apporter une meilleure experience utilisateur (ex: préciser que le champ "email" doit contenir un "@" et un ".")
+- [ ] Regex sur les mots de passes
+- [ ] Style différent sur checkbox
+- [ ] Créer un formulaire de connexion et reutiliser les fonctions si nécessaire 
+- [ ] Afficher les messages d'erreurs pour l'utilisateur
